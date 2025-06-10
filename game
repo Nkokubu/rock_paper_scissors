@@ -1,4 +1,4 @@
-mport random
+Import random
 
 CHOICES = ['rock', 'paper', 'scissors']
 
